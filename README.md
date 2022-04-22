@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello! 👋
+### I'm Pedro Moratelli, a Mobile Full Stack Developer 👨‍💻
 
-<!--
-**moratelli/moratelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+####  Tech Stack 
+ - Flutter
+ - Node.js
+ - React
+ - TypeScript
+ 
+ 
+ 
+ 
+📫 Contact me through **[LinkedIn](https://linkedin.com/in/pedromoratelli)**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ Learn more about me at **[pedromoratelli.com](https://pedromoratelli.com)**
