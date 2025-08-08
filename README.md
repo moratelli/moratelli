@@ -1,7 +1,6 @@
-### Hello! 👋
-### I'm Pedro Moratelli, a Mobile Full Stack Developer 👨‍💻
+### Hello, I'm Pedro! 👋
 
-I've been working in the software development sector for more than four years, with greater knowledge in Full Stack Wev Development and Full Stack Mobile Development.
+I've been working in the software development sector for more than five years, with greater knowledge in Full Stack Wev Development and Full Stack Mobile Development.
 
 ####  Tech Stack
  - Flutter, using BLoC for state management
@@ -11,15 +10,12 @@ I've been working in the software development sector for more than four years, w
 
 #### Other
  - DevOps (Jenkins, GitHub Actions)
- - Docker
- - IaaC using Terraform
- - Monitoring using Grafana
- - Logging using Kibana
+ - Monitoring and Observability
+ - Agile Leadership
+ - C1 English, B2 French
 
-Currently trying to learn German AND Go. 😆
+Currently trying to learn German. 😆
 
  ----
  
 📫 Contact me through **[LinkedIn](https://linkedin.com/in/pedromoratelli)**
-
-✨ Learn more about me at **[pedromoratelli.com](https://pedromoratelli.com)**
