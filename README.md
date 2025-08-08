@@ -9,6 +9,7 @@ I've been working in the software development sector for more than five years, w
  - .NET
 
 #### Other
+ - Azure
  - DevOps (Jenkins, GitHub Actions)
  - Monitoring and Observability
  - Agile Leadership
